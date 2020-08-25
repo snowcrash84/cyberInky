@@ -7,7 +7,7 @@ from datetime import *
 
 #Calculate release date
 today = date.today()
-release_date = date(2020,9,17)
+release_date = date(2020,11,19)
 diff = release_date - today
 
 #Configure InkyPHAT
